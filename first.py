@@ -1,3 +1,4 @@
+#interface ;ED/BUZZER with raspberry pi and write a program to control LED with delays
 import RPi.GPIO as X
 import time 
 pin=18
